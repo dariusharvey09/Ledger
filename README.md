@@ -1,14 +1,14 @@
 # What is StudyFlow? Why is it needed?
-Students often study inefficiently and uneffectively, leading to burnout and a struggle to retain information. Existing productivity and study assistant apps focus solely on time tracking rather than research-based psychology about learning, memory and focus.
+Students often study inefficiently, leading to burnout and a struggle to retain information. Existing productivity and study assistant apps focus solely on time tracking rather than research-backed psychology and learning approach to studying, memory and focus.
 
-The solution? StudyFlow. An AI-assisted study platform that uses credible psychology-backed techniques to improve focus, retention and aid sustainable studying.
+The solution? StudyFlow. An AI-assisted study platform that uses credible psychology-backed techniques to improve focus, retention and support sustainable studying.
 
 # The Foundation
 StudyFlow is built upon evidence-based psychology and learning science research focused on attention, memory, motivation, and sustainable studying.
 
 ## Attention & Focus
 - Andrade, J. (2009) - Doodling
-- Positive Reinforment & Shaping
+- Positive Reinforcement & Shaping
 
 ## Memory & Retention
 - Andrade, J. (2009) - Doodling
@@ -19,4 +19,20 @@ StudyFlow is built upon evidence-based psychology and learning science research 
 - Cognitive Load Theory
 
 # Why Use Artificial Intelligence (AI)?
-StudyFlow uses AI not to replace learning, but to personalise study support, identify ineffective study habits and encourage active re-call.
+StudyFlow uses AI not to replace learning, but to personalise study support, identify ineffective study habits, encourage active recall, and adapt recommendations based on your individual needs and progress.
+
+# Planned Features
+- Adaptive Pomodoro recommendations
+- Goal setting and progress tracking
+- Burnout and productivity monitoring
+- Ai-generated quizzes from study notes
+- Doodling integration for focus support
+- Reflective study session analysis
+- Personalised study recommendations
+
+# Our Ethical Considerations
+StudyFlow aims to use AI responsibly by:
+- encouraging independant learning rather than dependacy
+- minising intrusive data collection
+- support student wellbeing
+
