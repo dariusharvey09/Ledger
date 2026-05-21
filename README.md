@@ -3,6 +3,17 @@ Students often study inefficiently and uneffectively, leading to burnout and a s
 
 The solution? StudyFlow. An AI-assisted study platform that uses credible psychology-backed techniques to improve focus, retention and aid sustainable studying.
 
-# The foundation
-StudyFlow is based around evidence-based psychology and the learning approach to psychology. Some of the basis for StudyFlow includes:
-- Andrade, J. (2009) Doodling
+# The Foundation
+StudyFlow is built upon evidence-based psychology and learning science research focused on attention, memory, motivation, and sustainable studying.
+
+## Attention & Focus
+- Andrade, J. (2009) - Doodling
+- Positive Reinforment & Shaping
+
+## Memory & Retention
+- Andrade, J. (2009) - Doodling
+- Spaced Repetition Theory
+
+## Productivity & Burnout
+- Pomodoro Technique
+- Cognitive Load Theory
