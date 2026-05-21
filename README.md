@@ -17,3 +17,6 @@ StudyFlow is built upon evidence-based psychology and learning science research 
 ## Productivity & Burnout
 - Pomodoro Technique
 - Cognitive Load Theory
+
+# Why Use Artificial Intelligence (AI)?
+StudyFlow uses AI not to replace learning, but to personalise study support, identify ineffective study habits and encourage active re-call.
