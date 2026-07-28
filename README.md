@@ -32,7 +32,7 @@ Ledger uses AI not to replace learning, but to personalise study support, identi
 
 # Our Ethical Considerations
 Ledger aims to use AI responsibly by:
-- encouraging independant learning rather than dependacy
-- minising intrusive data collection
-- support student wellbeing
+- Encouraging independant learning rather than dependacy
+- Minimising intrusive data collection
+- Support student wellbeing
 
