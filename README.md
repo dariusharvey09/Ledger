@@ -25,7 +25,7 @@ Ledger uses AI not to replace learning, but to personalise study support, identi
 - Adaptive Pomodoro recommendations
 - Goal setting and progress tracking
 - Burnout and productivity monitoring
-- Ai-generated quizzes from study notes
+- AI-generated quizzes from study notes
 - Doodling integration for focus support
 - Reflective study session analysis
 - Personalised study recommendations
