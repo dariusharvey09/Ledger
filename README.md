@@ -7,11 +7,11 @@ The solution? StudyFlow. An AI-assisted study platform that uses credible psycho
 StudyFlow is built upon evidence-based psychology and learning science research focused on attention, memory, motivation, and sustainable studying.
 
 ## Attention & Focus
-- Andrade, J. (2009) - Doodling
+- Andrade, J. (2009)
 - Positive Reinforcement & Shaping
 
 ## Memory & Retention
-- Andrade, J. (2009) - Doodling
+- Andrade, J. (2009)
 - Spaced Repetition Theory
 
 ## Productivity & Burnout
